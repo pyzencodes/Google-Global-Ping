@@ -1,3 +1,8 @@
+[![GitHub stars](https://img.shields.io/github/stars/pyzencodes/Google-Global-Ping?style=flat-square)](https://github.com/pyzencodes/Google-Global-Ping/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/pyzencodes/Google-Global-Ping?style=flat-square)](https://github.com/pyzencodes/Google-Global-Ping/issues)
+![Python version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square&logo=python)
+![License](https://img.shields.io/badge/license-Private%20Use-red?style=flat-square)
+
 
 ---
 
@@ -81,3 +86,9 @@ console output     # real-time OK / FAIL feedback
 ---
 
 ```
+
+## License
+
+Google Global Ping Plus is provided for internal testing and research only.  
+All rights reserved. You may not reuse, modify, redistribute, or offer this tool as a service without explicit permission from the author.
+
